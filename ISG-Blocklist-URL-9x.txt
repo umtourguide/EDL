@@ -13370,3 +13370,4 @@ lowespetrol.com
 *.lowespetrol.com
 profitablegate.com
 *.profitablegate.com
+*.html/
