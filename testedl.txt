@@ -1,4 +1,4 @@
-*.ru/ //Comment1
+*.ru/
 *.blue/
 *.co/
-youtube.com //Comment2
+youtube.com
